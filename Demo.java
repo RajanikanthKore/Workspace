@@ -1,6 +1,6 @@
 class Demo {
 
-public void main(){
-    
+public void m2(){
+    system.out.println("M2 methode Updated ")
 }
 }
