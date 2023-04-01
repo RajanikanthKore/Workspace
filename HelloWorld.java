@@ -12,6 +12,9 @@ class Myname
 		return c;
 	}
 	
+	class MyProfile{
+		
+	}
 }
 
 
